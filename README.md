@@ -35,3 +35,4 @@ export JWT_SECRET=mysecretstring
 - Add a screenshot about the CircleCi secrets: Done
 - Remove the hardcoded environmental variables (removed set_env.sh file): Done
 - Fix deployed frontend: Done
+- Use `eb setenv` in script deploy of package.json
