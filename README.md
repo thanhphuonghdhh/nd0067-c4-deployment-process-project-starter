@@ -29,3 +29,9 @@ export JWT_SECRET=mysecretstring
 - [Angular](https://angular.io/) - Single Page Application Framework
 - [Node](https://nodejs.org) - Javascript Runtime
 - [Express](https://expressjs.com/) - Javascript API Framework
+
+# Changes after review
+
+- Add a screenshot about the CircleCi secrets: Done
+- Remove the hardcoded environmental variables (removed set_env.sh file): Done
+- Fix deployed frontend: Done
